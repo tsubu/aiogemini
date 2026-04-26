@@ -1,6 +1,6 @@
-# AIO Gemini Plugin
+# Picot AIO AI Content Optimizer
 
-AI-powered content summarization plugin for WordPress using Google Gemini AI.
+AI-powered content analysis and optimization plugin for WordPress using Google Gemini AI.
 
 ## Features
 
