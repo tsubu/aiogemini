@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIO Gemini 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-18 22:54+0900\n"
+"PO-Revision-Date: 2026-01-18 23:15+0800\n"
+"Last-Translator: Antigravity\n"
+"Language-Team: Traditional Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Antigravity\n"
+"X-Domain: picot_aio_optimizer\n"
+
+#: ../picot_aio_optimizer.php:71
+msgid "Security check failed"
+msgstr "安全性檢查失敗"
+
+#: ../picot_aio_optimizer.php:110
+msgid "Settings"
+msgstr "設定"
+
+#: ../includes/gemini-client.php:158 ../includes/admin-views.php:59
+msgid "Thumbnail Prompt"
+msgstr "縮略圖提示詞"
+
+#: ../includes/admin-views.php:21
+msgid "Analyzing..."
+msgstr "分析中..."
+
+#: ../includes/admin-views.php:22
+msgid "Rewriting..."
+msgstr "重寫中..."
+
+#: ../includes/admin-views.php:23
+msgid ""
+"Are you sure you want to rewrite content? The current title and content will "
+"be overwritten."
+msgstr "您確定要重寫內容嗎？目前的標題和內容將被覆蓋。"
+
+#: ../includes/admin-views.php:24
+msgid "Rewrite Success!"
+msgstr "重寫成功！"
+
+#: ../includes/admin-views.php:25
+msgid "Error occurred."
+msgstr "發生錯誤。"
+
+#: ../includes/admin-views.php:26
+msgid "Analysis completed successfully"
+msgstr "分析成功完成"
+
+#: ../includes/admin-views.php:27
+msgid "No content found."
+msgstr "找不到內容。"
+
+#: ../includes/admin-views.php:28
+msgid "Analyze Content"
+msgstr "分析內容"
+
+#: ../includes/admin-views.php:29
+msgid "Gemini Rewrite"
+msgstr "Gemini 重寫"
+
+#: ../includes/admin-views.php:31 ../includes/admin-views.php:363
+#: ../includes/admin-views.php:499
+msgid "Summary"
+msgstr "摘要"
+
+#: ../includes/admin-views.php:32 ../includes/admin-views.php:504
+msgid "Structure Analysis"
+msgstr "結構分析"
+
+#: ../includes/admin-views.php:33 ../includes/admin-views.php:505
+msgid "Content Advice"
+msgstr "內容建議"
+
+#: ../includes/admin-views.php:34 ../includes/admin-views.php:506
+msgid "SEO Advice"
+msgstr "SEO 建議"
+
+#: ../includes/admin-views.php:35 ../includes/admin-views.php:507
+msgid "AIO Advice"
+msgstr "AIO 建議"
+
+#: ../includes/admin-views.php:36 ../includes/admin-views.php:508
+msgid "Recommended Content"
+msgstr "推薦內容"
+
+#: ../includes/admin-views.php:37 ../includes/admin-views.php:513
+msgid "SEO Title Ideas"
+msgstr "SEO 標題構思"
+
+#: ../includes/admin-views.php:38 ../includes/admin-views.php:523
+msgid "Meta Description Suggestions"
+msgstr "元敘述建議"
+
+#: ../includes/admin-views.php:39
+msgid "View History for this Post"
+msgstr "查看此文章的歷史記錄"
+
+#: ../includes/admin-views.php:40
+msgid "Discover Image Opportunities"
+msgstr "尋找圖片插入點"
+
+#: ../includes/admin-views.php:41
+msgid "Discovering image opportunities..."
+msgstr "正在尋找圖片插入點..."
+
+#: ../includes/admin-views.php:42
+msgid "Generate"
+msgstr "生成"
+
+#: ../includes/admin-views.php:43
+msgid "Generating..."
+msgstr "正在生成..."
+
+#: ../includes/admin-views.php:44
+msgid "Featured Image"
+msgstr "特色圖片"
+
+#: ../includes/admin-views.php:45
+msgid "Generate featured image for the article"
+msgstr "為文章生成特色圖片"
+
+#: ../includes/admin-views.php:46
+msgid "No image suggestions found"
+msgstr "找不到圖片建議"
+
+#: ../includes/admin-views.php:47
+msgid "No placement opportunities found (excluding areas near existing images)"
+msgstr "找不到插入點（已排除現有圖片附近的區域）"
+
+#: ../includes/admin-views.php:48
+msgid "🚀 Generate and Place"
+msgstr "🚀 生成並放置"
+
+#: ../includes/admin-views.php:49
+msgid "🚀 Batch Generate and Place"
+msgstr "🚀 批次生成並放置"
+
+#: ../includes/admin-views.php:50
+msgid "💾 Saved: "
+msgstr "💾 已儲存： "
+
+#: ../includes/admin-views.php:51
+msgid "Featured image set successfully!"
+msgstr "特色圖片設定成功！"
+
+#: ../includes/admin-views.php:52
+msgid "Placeholder replaced with image!"
+msgstr "預留位置已替換為圖片！"
+
+#: ../includes/admin-views.php:53
+msgid "Image inserted successfully!"
+msgstr "圖片插入成功！"
+
+#: ../includes/admin-views.php:54
+msgid "Failed to insert image. It has been saved to the media library."
+msgstr "圖片插入失敗。它已儲存到媒體庫。"
+
+#: ../includes/admin-views.php:55
+msgid "No target images (markers) found for generation."
+msgstr "找不到用於生成的目標圖片（標記）。"
+
+#: ../includes/admin-views.php:56
+msgid "All image generation completed!"
+msgstr "所有圖片生成已完成！"
+
+#: ../includes/admin-views.php:57
+msgid "🔄 Generating... "
+msgstr "🔄 正在生成... "
+
+#: ../includes/admin-views.php:58
+msgid "✅ Done!"
+msgstr "✅ 完成！"
+
+#: ../includes/admin-views.php:60
+msgid "Copied!"
+msgstr "已複製！"
+
+#: ../includes/admin-views.php:61
+msgid "Loading history..."
+msgstr "正在載入歷史記錄..."
+
+#: ../includes/admin-views.php:62 ../includes/admin-views.php:355
+msgid "Analysis History"
+msgstr "分析歷史"
+
+#: ../includes/admin-views.php:63
+msgid "Show"
+msgstr "顯示"
+
+#: ../includes/admin-views.php:64
+msgid "No history found for this post."
+msgstr "此文章沒有歷史記錄。"
+
+#: ../includes/admin-views.php:65
+msgid "Failed to load history."
+msgstr "載入歷史記錄失敗。"
+
+#: ../includes/admin-views.php:66
+msgid "Analysis Result"
+msgstr "分析結果"
+
+#: ../includes/admin-views.php:67
+msgid "Copy"
+msgstr "複製"
+
+#: ../includes/admin-views.php:68
+msgid "Clear Results"
+msgstr "清除結果"
+
+#: ../includes/admin-views.php:69
+msgid "API Error occurred."
+msgstr "發生 API 錯誤。"
+
+#: ../includes/admin-views.php:70
+msgid "Permission denied. Please refresh the page and try again."
+msgstr "權限被拒絕。請重新整理頁面並再試一次。"
+
+#: ../includes/admin-views.php:71
+msgid "Server error. Please check the error log."
+msgstr "伺服器錯誤。請檢查錯誤日誌。"
+
+#: ../includes/admin-views.php:72
+msgid "Network error. Please check your connection."
+msgstr "網絡錯誤。請檢查您的連線。"
+
+#: ../includes/admin-views.php:73
+msgid "AI response format was unexpected. Displaying as text."
+msgstr "AI 回應格式非預期。將以文字顯示。"
+
+#: ../includes/admin-views.php:83
+msgid "None (Prompt Only)"
+msgstr "無（僅提示詞）"
+
+#: ../includes/admin-views.php:84
+msgid "Professional (Photo)"
+msgstr "專業（照片）"
+
+#: ../includes/admin-views.php:85
+msgid "Photo Realistic"
+msgstr "寫實照片"
+
+#: ../includes/admin-views.php:88
+msgid "Flat Illustration"
+msgstr "扁平插畫"
+
+#: ../includes/admin-views.php:89
+msgid "Isometric"
+msgstr "等軸測圖"
+
+#: ../includes/admin-views.php:90
+msgid "Vector Art"
+msgstr "向量藝術"
+
+#: ../includes/admin-views.php:91
+msgid "Infographic"
+msgstr "資訊圖表"
+
+#: ../includes/admin-views.php:92
+msgid "Icon Style"
+msgstr "圖標風格"
+
+#: ../includes/admin-views.php:95
+msgid "Watercolor"
+msgstr "水彩"
+
+#: ../includes/admin-views.php:96
+msgid "Oil Painting"
+msgstr "油畫"
+
+#: ../includes/admin-views.php:97
+msgid "Digital Art"
+msgstr "數位藝術"
+
+#: ../includes/admin-views.php:98
+msgid "Concept Art"
+msgstr "概念藝術"
+
+#: ../includes/admin-views.php:99
+msgid "Sketch"
+msgstr "素描"
+
+#: ../includes/admin-views.php:102
+msgid "3D Render"
+msgstr "3D 渲染"
+
+#: ../includes/admin-views.php:103
+msgid "Low Poly"
+msgstr "低多邊形"
+
+#: ../includes/admin-views.php:104
+msgid "Clay Render"
+msgstr "黏土渲染"
+
+#: ../includes/admin-views.php:105
+msgid "Neon 3D"
+msgstr "霓虹 3D"
+
+#: ../includes/admin-views.php:108
+msgid "Glassmorphism"
+msgstr "玻璃擬態"
+
+#: ../includes/admin-views.php:109
+msgid "Gradient Mesh"
+msgstr "漸層網格"
+
+#: ../includes/admin-views.php:110
+msgid "Geometric"
+msgstr "幾何"
+
+#: ../includes/admin-views.php:111
+msgid "Minimalist"
+msgstr "極簡主義"
+
+#: ../includes/admin-views.php:112
+msgid "Brutalist"
+msgstr "粗獷主義"
+
+#: ../includes/admin-views.php:115
+msgid "Vintage"
+msgstr "復古"
+
+#: ../includes/admin-views.php:116
+msgid "Cyberpunk"
+msgstr "賽博龐克"
+
+#: ../includes/admin-views.php:117
+msgid "Anime"
+msgstr "動漫"
+
+#: ../includes/admin-views.php:118
+msgid "Pixel Art"
+msgstr "像素藝術"
+
+#: ../includes/admin-views.php:119
+msgid "Paper Cut"
+msgstr "剪紙"
+
+#: ../includes/admin-views.php:120
+msgid "Collage"
+msgstr "拼貼"
+
+#: ../includes/admin-views.php:143
+msgid "Analyze with Gemini"
+msgstr "使用 Gemini 分析"
+
+#: ../includes/admin-views.php:146
+msgid "Discover Images"
+msgstr "尋找圖片"
+
+#: ../includes/admin-views.php:151
+msgid "Analysis results will appear here."
+msgstr "分析結果將顯示在這裡。"
+
+#: ../includes/admin-views.php:171
+msgid "AIO Gemini Settings"
+msgstr "AIO Gemini 設定"
+
+#: ../includes/admin-views.php:174
+msgid "Settings saved."
+msgstr "設定已儲存。"
+
+#: ../includes/admin-views.php:182
+msgid "Google Gemini API Key"
+msgstr "Google Gemini API 金鑰"
+
+#: ../includes/admin-views.php:186
+msgid "Analysis Model"
+msgstr "分析模型"
+
+#: ../includes/admin-views.php:207
+msgid "Fetch Latest Model List"
+msgstr "獲取最新模型列表"
+
+#: ../includes/admin-views.php:211
+msgid ""
+"After saving the API key, you can add the latest available models to the "
+"dropdown using the button above."
+msgstr "儲存 API 金鑰後，您可以使用上方的按鈕將最新可用的模型添加到下拉選單中。"
+
+#: ../includes/admin-views.php:216
+msgid "Image Generation Function"
+msgstr "圖片生成功能"
+
+#: ../includes/admin-views.php:220
+msgid "Enable"
+msgstr "啟用"
+
+#: ../includes/admin-views.php:223
+msgid "Generate high-quality images using the selected image model."
+msgstr "使用選定的圖片模型生成高品質圖片。"
+
+#: ../includes/admin-views.php:226
+msgid ""
+"* Image generation (Imagen) may not be available with free tier API keys. "
+"Check <a href=\"https://aistudio.google.com/api-keys\" "
+"target=\"_blank\">Google AI Studio</a> for details."
+msgstr "※ 圖片生成功能 (Imagen) 可能無法用於免費層級的 API 金鑰。詳情請查看 <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a>。"
+
+#: ../includes/admin-views.php:231
+msgid "Image Prompt Model"
+msgstr "圖片提示詞模型"
+
+#: ../includes/admin-views.php:252
+msgid "Image Style"
+msgstr "圖片風格"
+
+#: ../includes/admin-views.php:265
+msgid ""
+"Select the style for generated images. This will be automatically added to "
+"prompts."
+msgstr "選擇生成的圖片風格。這將自動添加到提示詞中。"
+
+#: ../includes/admin-views.php:281
+msgid "Fetching..."
+msgstr "正在獲取..."
+
+#: ../includes/admin-views.php:328
+msgid "✅ Done"
+msgstr "✅ 完成"
+
+#: ../includes/admin-views.php:330 ../includes/admin-views.php:334
+msgid "❌ Error"
+msgstr "❌ 錯誤"
+
+#: ../includes/admin-views.php:357
+msgid "Showing the last 20 analysis records. Click a row to view details."
+msgstr "顯示最近 20 筆分析記錄。點擊行以查看詳情。"
+
+#: ../includes/admin-views.php:361
+msgid "Date"
+msgstr "日期"
+
+#: ../includes/admin-views.php:362
+msgid "Post ID"
+msgstr "文章 ID"
+
+#: ../includes/admin-views.php:364
+msgid "Action"
+msgstr "操作"
+
+#: ../includes/admin-views.php:369
+msgid "Loading..."
+msgstr "正在載入..."
+
+#: ../includes/admin-views.php:380
+msgid "Analysis Details"
+msgstr "分析詳情"
+
+#: ../includes/admin-views.php:403
+msgid "(No data)"
+msgstr "(無資料)"
+
+#: ../includes/admin-views.php:416
+msgid "View"
+msgstr "查看"
+
+#: ../includes/admin-views.php:532
+msgid "Could not parse as JSON. Showing as text."
+msgstr "無法解析為 JSON。將以文字顯示。"

@@ -1,0 +1,67 @@
+[2026-04-25 23:09:22] Analyze Content Request - Post ID: 1016
+[2026-04-25 23:17:14] Analyze Content Request - Post ID: 1016
+[2026-04-25 23:17:28] Saved analysis result to DB for Post ID: 1016
+[2026-04-25 23:20:28] Analyze Content Request - Post ID: 1016
+[2026-04-25 23:20:38] Saved analysis result to DB for Post ID: 1016
+[2026-04-25 23:23:26] Analyze Content Request - Post ID: 1016
+[2026-04-25 23:23:39] Saved analysis result to DB for Post ID: 1016
+[2026-04-25 23:29:04] Rewrite Request - Title: テンプレート: アイキャッチ画像 (縦) | Instructions: 
+[2026-04-25 23:29:04] Fatal Error in Rewrite: WpOrg\Requests\Transport\Curl::request(): Argument #3 ($data) must be of type array|string, boolean given
+[2026-04-25 23:31:10] Rewrite Request - Title: テンプレート: アイキャッチ画像 (縦) | Instructions: 
+[2026-04-25 23:31:24] Rewrite Successful
+[2026-04-25 23:31:43] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-25 23:35:05] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-25 23:40:36] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-25 23:43:38] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-25 23:44:14] Generate Image Request - Prompt: A modern, minimalist, vertical featured image for a WordPress blog post. The design should be sleek and professional, with abstract graphic elements and subtle vertical gradients. It should have a bright, clean aesthetic. Integrate the Japanese text '縦長アイキャッチ' (Tatenaga Aikyacchi) prominently and stylishly, emphasizing the vertical orientation of the image. The typography should be clean and readable, matching the professional blog aesthetic.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:44:40] Image generated via API, uploading to media library...
+[2026-04-25 23:44:40] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:44:41] Generate Image Request - Prompt: A grid layout showcasing how images with various aspect ratios (square, landscape, portrait) are displayed on a webpage. Visually illustrate the challenges of cropping or white space issues when these images are applied to different theme templates.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:45:06] Image generated via API, uploading to media library...
+[2026-04-25 23:45:06] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:45:07] Generate Image Request - Prompt: A screenshot of the WordPress Customizer interface. Highlight the featured image settings options, specifically showing controls related to aspect ratio adjustments and cropping settings.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:45:33] Image generated via API, uploading to media library...
+[2026-04-25 23:45:33] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:45:34] Generate Image Request - Prompt: An abstract visual representation of a vertical image seamlessly integrated into a responsive web design on a digital screen, surrounded by subtle code snippets and design elements. This symbolizes the importance of testing and optimization for various aspect ratios, conveying a sense of precision and modern web development.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:45:49] Image generated via API, uploading to media library...
+[2026-04-25 23:45:49] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:54:42] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-25 23:55:35] Generate Image Request - Prompt: A modern, minimalist, vertical featured image ideal for a WordPress blog post. It includes abstract graphic elements and subtle gradients showing a vertical visual flow. The atmosphere is bright and professional, reflecting the aesthetic of a professional blog.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:56:00] Image generated via API, uploading to media library...
+[2026-04-25 23:56:01] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:56:04] Generate Image Request - Prompt: A grid layout illustrating how images of various aspect ratios are displayed on a webpage. Visually depicting the challenges of cropping and white space when square, horizontal, and vertical images are applied to different theme templates. Clean, modern web design elements.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:56:25] Image generated via API, uploading to media library...
+[2026-04-25 23:56:26] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:56:28] Generate Image Request - Prompt: A screenshot or illustration of a WordPress theme customizer interface, highlighting options related to image cropping, aspect ratio settings, and responsive image adjustments. A hand cursor is pointing to or clicking on these settings, showing control over how vertical images are displayed. Clean UI design.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:56:50] Image generated via API, uploading to media library...
+[2026-04-25 23:56:50] Image uploaded successfully - Attachment ID: N/A
+[2026-04-25 23:56:52] Generate Image Request - Prompt: A person happily engaging with a blog post on a tablet or laptop, clearly enjoying a visually rich article with perfectly displayed images, including a prominent vertical featured image. The scene conveys a sense of satisfaction and good user experience. Cozy, modern setting.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-25 23:57:08] Image generated via API, uploading to media library...
+[2026-04-25 23:57:09] Image uploaded successfully - Attachment ID: N/A
+[2026-04-26 00:06:25] Analyze Content Request - Post ID: 1016
+[2026-04-26 00:06:41] Saved analysis result to DB for Post ID: 1016
+[2026-04-26 00:06:53] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (縦)
+[2026-04-26 00:07:11] Generate Image Request - Prompt: A modern, minimalist, vertical featured image for a WordPress blog post. It includes abstract graphic elements and subtle gradients that show a vertical visual flow. The atmosphere is bright and professional, reflecting a professional blog aesthetic. The image should subtly convey the concept of aspect ratio testing or image display challenges. Render the text 'アイキャッチ縦' prominently on the image.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:07:33] Image generated via API, uploading to media library...
+[2026-04-26 00:07:33] Image uploaded successfully - Attachment ID: N/A
+[2026-04-26 00:07:34] Generate Image Request - Prompt: A grid layout showing how images of various aspect ratios (square, landscape, portrait) are displayed on a webpage. Visually illustrate cropping and spacing issues when applied to different theme templates. Emphasize the visual problems caused by incorrect aspect ratios and how they disrupt the layout.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:08:07] Generate Image Request - Prompt: A visual representation of a WordPress theme intelligently cropping and displaying a portrait-oriented image beautifully on a responsive webpage. Show the image adapting seamlessly to different screen sizes without distortion or layout issues. The theme's UI elements should suggest flexibility and responsiveness.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:08:22] Image generated via API, uploading to media library...
+[2026-04-26 00:08:23] Image uploaded successfully - Attachment ID: N/A
+[2026-04-26 00:54:12] Analyze Content Request - Post ID: 1011
+[2026-04-26 00:54:25] Saved analysis result to DB for Post ID: 1011
+[2026-04-26 00:54:35] Suggest Images Request - Title: テンプレート: アイキャッチ画像 (横)
+[2026-04-26 00:55:34] Analyze Content Request - Post ID: 1149
+[2026-04-26 00:55:50] Saved analysis result to DB for Post ID: 1149
+[2026-04-26 00:56:11] Rewrite Request - Title: テンプレート: ピンバックとトラックバック | Instructions: 
+[2026-04-26 00:56:32] Rewrite Successful
+[2026-04-26 00:56:55] Suggest Images Request - Title: テンプレート: ピンバックとトラックバック
+[2026-04-26 00:57:19] Generate Image Request - Prompt: An abstract illustration depicting multiple blog articles linking to each other. It includes arrows and lines showing communication and cross-referencing between websites, with digital connection and notification icons scattered throughout. The primary colors are blue, green, and white, giving a modern and clean impression.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:57:41] Image generated via API, uploading to media library...
+[2026-04-26 00:57:41] Image uploaded successfully - Attachment ID: N/A
+[2026-04-26 00:57:42] Generate Image Request - Prompt: An illustration of a blog article page with numerous notifications, indicating a high volume of pingbacks and trackbacks. Show small icons or pop-ups representing these notifications, creating a sense of active communication and mentions from various sources. Use digital, connected aesthetics.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:57:58] Image generated via API, uploading to media library...
+[2026-04-26 00:57:58] Image uploaded successfully - Attachment ID: N/A
+[2026-04-26 00:57:59] Generate Image Request - Prompt: A screenshot of a blog post's comment section, where a simple list of pingbacks and trackbacks is displayed above the main comments. The list clearly shows the originating blog names and links, in a clean, uncluttered interface.. Style: Professional photography, highly detailed, sharp focus, 8k resolution
+[2026-04-26 00:58:13] Image generated via API, uploading to media library...
+[2026-04-26 00:58:14] Image uploaded successfully - Attachment ID: N/A

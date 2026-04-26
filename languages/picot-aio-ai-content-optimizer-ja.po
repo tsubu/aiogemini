@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIO Gemini 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-18 22:54+0900\n"
+"PO-Revision-Date: 2026-01-18 23:02+0900\n"
+"Last-Translator: Antigravity\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Antigravity\n"
+"X-Domain: picot-aio-ai-content-optimizer\n"
+
+#: ../picot_aio_optimizer.php:71
+msgid "Security check failed"
+msgstr "セキュリティチェックに失敗しました"
+
+#: ../picot_aio_optimizer.php:110
+msgid "Settings"
+msgstr "設定"
+
+#: ../includes/gemini-client.php:158 ../includes/admin-views.php:59
+msgid "Thumbnail Prompt"
+msgstr "サムネイル用プロンプト"
+
+#: ../includes/admin-views.php:21
+msgid "Analyzing..."
+msgstr "分析中..."
+
+#: ../includes/admin-views.php:22
+msgid "Rewriting..."
+msgstr "リライト中..."
+
+#: ../includes/admin-views.php:23
+msgid ""
+"Are you sure you want to rewrite content? The current title and content will "
+"be overwritten."
+msgstr "コンテンツをリライトしてもよろしいですか？現在のタイトルと本文が上書きされます。"
+
+#: ../includes/admin-views.php:24
+msgid "Rewrite Success!"
+msgstr "リライトに成功しました！"
+
+#: ../includes/admin-views.php:25
+msgid "Error occurred."
+msgstr "エラーが発生しました。"
+
+#: ../includes/admin-views.php:26
+msgid "Analysis completed successfully"
+msgstr "分析が完了しました"
+
+#: ../includes/admin-views.php:27
+msgid "No content found."
+msgstr "記事の内容がありません。"
+
+#: ../includes/admin-views.php:28
+msgid "Analyze Content"
+msgstr "記事を分析する"
+
+#: ../includes/admin-views.php:29
+msgid "Gemini Rewrite"
+msgstr "Geminiでリライト"
+
+#: ../includes/admin-views.php:31 ../includes/admin-views.php:363
+#: ../includes/admin-views.php:499
+msgid "Summary"
+msgstr "要約"
+
+#: ../includes/admin-views.php:32 ../includes/admin-views.php:504
+msgid "Structure Analysis"
+msgstr "構成分析"
+
+#: ../includes/admin-views.php:33 ../includes/admin-views.php:505
+msgid "Content Advice"
+msgstr "コンテンツ改善アドバイス"
+
+#: ../includes/admin-views.php:34 ../includes/admin-views.php:506
+msgid "SEO Advice"
+msgstr "SEOアドバイス"
+
+#: ../includes/admin-views.php:35 ../includes/admin-views.php:507
+msgid "AIO Advice"
+msgstr "AIOアドバイス"
+
+#: ../includes/admin-views.php:36 ../includes/admin-views.php:508
+msgid "Recommended Content"
+msgstr "推奨追加コンテンツ"
+
+#: ../includes/admin-views.php:37 ../includes/admin-views.php:513
+msgid "SEO Title Ideas"
+msgstr "SEOタイトル案"
+
+#: ../includes/admin-views.php:38 ../includes/admin-views.php:523
+msgid "Meta Description Suggestions"
+msgstr "メタディスクリプション案"
+
+#: ../includes/admin-views.php:39
+msgid "View History for this Post"
+msgstr "この投稿の履歴を表示"
+
+#: ../includes/admin-views.php:40
+msgid "Discover Image Opportunities"
+msgstr "画像挿入ポイントを探索"
+
+#: ../includes/admin-views.php:41
+msgid "Discovering image opportunities..."
+msgstr "画像挿入ポイントを探索中..."
+
+#: ../includes/admin-views.php:42
+msgid "Generate"
+msgstr "生成"
+
+#: ../includes/admin-views.php:43
+msgid "Generating..."
+msgstr "生成中..."
+
+#: ../includes/admin-views.php:44
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: ../includes/admin-views.php:45
+msgid "Generate featured image for the article"
+msgstr "記事のアイキャッチ画像を生成する"
+
+#: ../includes/admin-views.php:46
+msgid "No image suggestions found"
+msgstr "画像案が見つかりませんでした"
+
+#: ../includes/admin-views.php:47
+msgid "No placement opportunities found (excluding areas near existing images)"
+msgstr "挿入可能なポイントが見つかりませんでした（既存の画像付近を除く）"
+
+#: ../includes/admin-views.php:48
+msgid "🚀 Generate and Place"
+msgstr "🚀 生成して配置"
+
+#: ../includes/admin-views.php:49
+msgid "🚀 Batch Generate and Place"
+msgstr "🚀 一括生成して配置"
+
+#: ../includes/admin-views.php:50
+msgid "💾 Saved: "
+msgstr "💾 保存済み: "
+
+#: ../includes/admin-views.php:51
+msgid "Featured image set successfully!"
+msgstr "アイキャッチ画像を設定しました！"
+
+#: ../includes/admin-views.php:52
+msgid "Placeholder replaced with image!"
+msgstr "プレースホルダーを画像に置き換えました！"
+
+#: ../includes/admin-views.php:53
+msgid "Image inserted successfully!"
+msgstr "画像を正常に挿入しました！"
+
+#: ../includes/admin-views.php:54
+msgid "Failed to insert image. It has been saved to the media library."
+msgstr "画像の挿入に失敗しました。メディアライブラリには保存されています。"
+
+#: ../includes/admin-views.php:55
+msgid "No target images (markers) found for generation."
+msgstr "生成対象の画像（マーカー）が見つかりませんでした。"
+
+#: ../includes/admin-views.php:56
+msgid "All image generation completed!"
+msgstr "すべての画像生成が完了しました！"
+
+#: ../includes/admin-views.php:57
+msgid "🔄 Generating... "
+msgstr "🔄 生成中... "
+
+#: ../includes/admin-views.php:58
+msgid "✅ Done!"
+msgstr "✅ 完了！"
+
+#: ../includes/admin-views.php:60
+msgid "Copied!"
+msgstr "コピーしました！"
+
+#: ../includes/admin-views.php:61
+msgid "Loading history..."
+msgstr "履歴を読み込み中..."
+
+#: ../includes/admin-views.php:62 ../includes/admin-views.php:355
+msgid "Analysis History"
+msgstr "分析履歴"
+
+#: ../includes/admin-views.php:63
+msgid "Show"
+msgstr "表示"
+
+#: ../includes/admin-views.php:64
+msgid "No history found for this post."
+msgstr "この投稿の履歴はありません。"
+
+#: ../includes/admin-views.php:65
+msgid "Failed to load history."
+msgstr "履歴の読み込みに失敗しました。"
+
+#: ../includes/admin-views.php:66
+msgid "Analysis Result"
+msgstr "分析結果"
+
+#: ../includes/admin-views.php:67
+msgid "Copy"
+msgstr "コピー"
+
+#: ../includes/admin-views.php:68
+msgid "Clear Results"
+msgstr "結果をクリア"
+
+#: ../includes/admin-views.php:69
+msgid "API Error occurred."
+msgstr "APIエラーが発生しました。"
+
+#: ../includes/admin-views.php:70
+msgid "Permission denied. Please refresh the page and try again."
+msgstr "権限がありません。ページを更新して再試行してください。"
+
+#: ../includes/admin-views.php:71
+msgid "Server error. Please check the error log."
+msgstr "サーバーエラーが発生しました。エラーログを確認してください。"
+
+#: ../includes/admin-views.php:72
+msgid "Network error. Please check your connection."
+msgstr "ネットワークエラーが発生しました。接続を確認してください。"
+
+#: ../includes/admin-views.php:73
+msgid "AI response format was unexpected. Displaying as text."
+msgstr "AIのレスポンス形式が予期しないものでした。テキストとして表示します。"
+
+#: ../includes/admin-views.php:83
+msgid "None (Prompt Only)"
+msgstr "なし（プロンプトのみ）"
+
+#: ../includes/admin-views.php:84
+msgid "Professional (Photo)"
+msgstr "写真風（プロフェッショナル）"
+
+#: ../includes/admin-views.php:85
+msgid "Photo Realistic"
+msgstr "写真実写"
+
+#: ../includes/admin-views.php:88
+msgid "Flat Illustration"
+msgstr "フラットイラスト"
+
+#: ../includes/admin-views.php:89
+msgid "Isometric"
+msgstr "アイソメトリック"
+
+#: ../includes/admin-views.php:90
+msgid "Vector Art"
+msgstr "ベクターアート"
+
+#: ../includes/admin-views.php:91
+msgid "Infographic"
+msgstr "インフォグラフィック"
+
+#: ../includes/admin-views.php:92
+msgid "Icon Style"
+msgstr "アイコン風"
+
+#: ../includes/admin-views.php:95
+msgid "Watercolor"
+msgstr "水彩画風"
+
+#: ../includes/admin-views.php:96
+msgid "Oil Painting"
+msgstr "油彩画風"
+
+#: ../includes/admin-views.php:97
+msgid "Digital Art"
+msgstr "デジタルアート"
+
+#: ../includes/admin-views.php:98
+msgid "Concept Art"
+msgstr "コンセプトアート"
+
+#: ../includes/admin-views.php:99
+msgid "Sketch"
+msgstr "スケッチ風"
+
+#: ../includes/admin-views.php:102
+msgid "3D Render"
+msgstr "3Dレンダー"
+
+#: ../includes/admin-views.php:103
+msgid "Low Poly"
+msgstr "ローポリゴン"
+
+#: ../includes/admin-views.php:104
+msgid "Clay Render"
+msgstr "クレイレンダー"
+
+#: ../includes/admin-views.php:105
+msgid "Neon 3D"
+msgstr "ネオン3D"
+
+#: ../includes/admin-views.php:108
+msgid "Glassmorphism"
+msgstr "グラスモーフィズム"
+
+#: ../includes/admin-views.php:109
+msgid "Gradient Mesh"
+msgstr "グラデーションメッシュ"
+
+#: ../includes/admin-views.php:110
+msgid "Geometric"
+msgstr "ジオメトリック"
+
+#: ../includes/admin-views.php:111
+msgid "Minimalist"
+msgstr "ミニマリスト"
+
+#: ../includes/admin-views.php:112
+msgid "Brutalist"
+msgstr "ブルータリスト"
+
+#: ../includes/admin-views.php:115
+msgid "Vintage"
+msgstr "ヴィンテージ"
+
+#: ../includes/admin-views.php:116
+msgid "Cyberpunk"
+msgstr "サイバーパンク"
+
+#: ../includes/admin-views.php:117
+msgid "Anime"
+msgstr "アニメ風"
+
+#: ../includes/admin-views.php:118
+msgid "Pixel Art"
+msgstr "ピクセルアート"
+
+#: ../includes/admin-views.php:119
+msgid "Paper Cut"
+msgstr "ペーパーカット"
+
+#: ../includes/admin-views.php:120
+msgid "Collage"
+msgstr "コラージュ"
+
+#: ../includes/admin-views.php:143
+msgid "Analyze with Gemini"
+msgstr "Geminiで分析"
+
+#: ../includes/admin-views.php:146
+msgid "Discover Images"
+msgstr "画像挿入ポイントの探索"
+
+#: ../includes/admin-views.php:151
+msgid "Analysis results will appear here."
+msgstr "分析結果がここに表示されます。"
+
+#: ../includes/admin-views.php:171
+msgid "AIO Gemini Settings"
+msgstr "AIO Gemini 設定"
+
+#: ../includes/admin-views.php:174
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: ../includes/admin-views.php:182
+msgid "Google Gemini API Key"
+msgstr "Google Gemini APIキー"
+
+#: ../includes/admin-views.php:186
+msgid "Analysis Model"
+msgstr "分析用モデル"
+
+#: ../includes/admin-views.php:207
+msgid "Fetch Latest Model List"
+msgstr "最新のモデルリストを取得"
+
+#: ../includes/admin-views.php:211
+msgid ""
+"After saving the API key, you can add the latest available models to the "
+"dropdown using the button above."
+msgstr "APIキーを保存した後、上のボタンを使用して最新の利用可能なモデルをドロップダウンに追加できます。"
+
+#: ../includes/admin-views.php:216
+msgid "Image Generation Function"
+msgstr "画像生成機能"
+
+#: ../includes/admin-views.php:220
+msgid "Enable"
+msgstr "有効にする"
+
+#: ../includes/admin-views.php:223
+msgid "Generate high-quality images using the selected image model."
+msgstr "選択した画像用モデルを使用して高品質な画像を生成します。"
+
+#: ../includes/admin-views.php:226
+msgid ""
+"* Image generation (Imagen) may not be available with free tier API keys. "
+"Check <a href=\"https://aistudio.google.com/api-keys\" "
+"target=\"_blank\">Google AI Studio</a> for details."
+msgstr "※ 画像生成機能（Imagen）は現在、無料枠のAPIキーでは利用できない場合があります。詳細は <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a> をご確認ください。"
+
+#: ../includes/admin-views.php:231
+msgid "Image Prompt Model"
+msgstr "画像プロンプト用モデル"
+
+#: ../includes/admin-views.php:252
+msgid "Image Style"
+msgstr "画像スタイル"
+
+#: ../includes/admin-views.php:265
+msgid ""
+"Select the style for generated images. This will be automatically added to "
+"prompts."
+msgstr "生成される画像のスタイルを選択します。これは自動的にプロンプトに追加されます。"
+
+#: ../includes/admin-views.php:281
+msgid "Fetching..."
+msgstr "読み込み中..."
+
+#: ../includes/admin-views.php:328
+msgid "✅ Done"
+msgstr "✅ 完了"
+
+#: ../includes/admin-views.php:330 ../includes/admin-views.php:334
+msgid "❌ Error"
+msgstr "❌ エラー"
+
+#: ../includes/admin-views.php:357
+msgid "Showing the last 20 analysis records. Click a row to view details."
+msgstr "最新の分析結果20件を表示しています。レコードをクリックすると詳細を表示します。"
+
+#: ../includes/admin-views.php:361
+msgid "Date"
+msgstr "日時"
+
+#: ../includes/admin-views.php:362
+msgid "Post ID"
+msgstr "投稿ID"
+
+#: ../includes/admin-views.php:364
+msgid "Action"
+msgstr "操作"
+
+#: ../includes/admin-views.php:369
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: ../includes/admin-views.php:380
+msgid "Analysis Details"
+msgstr "分析結果詳細"
+
+#: ../includes/admin-views.php:403
+msgid "(No data)"
+msgstr "(データなし)"
+
+#: ../includes/admin-views.php:416
+msgid "View"
+msgstr "表示"
+
+#: ../includes/admin-views.php:532
+msgid "Could not parse as JSON. Showing as text."
+msgstr "JSONフォーマットとして解析できませんでした。テキストとして表示します。"

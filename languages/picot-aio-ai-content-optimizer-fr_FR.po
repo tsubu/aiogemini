@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIO Gemini 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-18 22:54+0900\n"
+"PO-Revision-Date: 2026-01-18 23:17+0100\n"
+"Last-Translator: Antigravity\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Antigravity\n"
+"X-Domain: picot_aio_optimizer\n"
+
+#: ../picot_aio_optimizer.php:71
+msgid "Security check failed"
+msgstr "Échec de la vérification de sécurité"
+
+#: ../picot_aio_optimizer.php:110
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../includes/gemini-client.php:158 ../includes/admin-views.php:59
+msgid "Thumbnail Prompt"
+msgstr "Invite pour la miniature"
+
+#: ../includes/admin-views.php:21
+msgid "Analyzing..."
+msgstr "Analyse en cours..."
+
+#: ../includes/admin-views.php:22
+msgid "Rewriting..."
+msgstr "Réécriture en cours..."
+
+#: ../includes/admin-views.php:23
+msgid ""
+"Are you sure you want to rewrite content? The current title and content will "
+"be overwritten."
+msgstr "Êtes-vous sûr de vouloir réécrire le contenu ? Le titre et le contenu actuels seront écrasés."
+
+#: ../includes/admin-views.php:24
+msgid "Rewrite Success!"
+msgstr "Réécriture réussie !"
+
+#: ../includes/admin-views.php:25
+msgid "Error occurred."
+msgstr "Une erreur est survenue."
+
+#: ../includes/admin-views.php:26
+msgid "Analysis completed successfully"
+msgstr "Analyse terminée avec succès"
+
+#: ../includes/admin-views.php:27
+msgid "No content found."
+msgstr "Aucun contenu trouvé."
+
+#: ../includes/admin-views.php:28
+msgid "Analyze Content"
+msgstr "Analyser le contenu"
+
+#: ../includes/admin-views.php:29
+msgid "Gemini Rewrite"
+msgstr "Réécriture Gemini"
+
+#: ../includes/admin-views.php:31 ../includes/admin-views.php:363
+#: ../includes/admin-views.php:499
+msgid "Summary"
+msgstr "Résumé"
+
+#: ../includes/admin-views.php:32 ../includes/admin-views.php:504
+msgid "Structure Analysis"
+msgstr "Analyse de structure"
+
+#: ../includes/admin-views.php:33 ../includes/admin-views.php:505
+msgid "Content Advice"
+msgstr "Conseils de contenu"
+
+#: ../includes/admin-views.php:34 ../includes/admin-views.php:506
+msgid "SEO Advice"
+msgstr "Conseils SEO"
+
+#: ../includes/admin-views.php:35 ../includes/admin-views.php:507
+msgid "AIO Advice"
+msgstr "Conseils AIO"
+
+#: ../includes/admin-views.php:36 ../includes/admin-views.php:508
+msgid "Recommended Content"
+msgstr "Contenu recommandé"
+
+#: ../includes/admin-views.php:37 ../includes/admin-views.php:513
+msgid "SEO Title Ideas"
+msgstr "Idées de titres SEO"
+
+#: ../includes/admin-views.php:38 ../includes/admin-views.php:523
+msgid "Meta Description Suggestions"
+msgstr "Suggestions de méta-description"
+
+#: ../includes/admin-views.php:39
+msgid "View History for this Post"
+msgstr "Voir l'historique de cet article"
+
+#: ../includes/admin-views.php:40
+msgid "Discover Image Opportunities"
+msgstr "Découvrir des opportunités d'images"
+
+#: ../includes/admin-views.php:41
+msgid "Discovering image opportunities..."
+msgstr "Recherche d'opportunités d'images..."
+
+#: ../includes/admin-views.php:42
+msgid "Generate"
+msgstr "Générer"
+
+#: ../includes/admin-views.php:43
+msgid "Generating..."
+msgstr "Génération en cours..."
+
+#: ../includes/admin-views.php:44
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: ../includes/admin-views.php:45
+msgid "Generate featured image for the article"
+msgstr "Générer une image mise en avant pour l'article"
+
+#: ../includes/admin-views.php:46
+msgid "No image suggestions found"
+msgstr "Aucune suggestion d'image trouvée"
+
+#: ../includes/admin-views.php:47
+msgid "No placement opportunities found (excluding areas near existing images)"
+msgstr "Aucune opportunité de placement trouvée (hors zones proches des images existantes)"
+
+#: ../includes/admin-views.php:48
+msgid "🚀 Generate and Place"
+msgstr "🚀 Générer et placer"
+
+#: ../includes/admin-views.php:49
+msgid "🚀 Batch Generate and Place"
+msgstr "🚀 Génération par lots et placement"
+
+#: ../includes/admin-views.php:50
+msgid "💾 Saved: "
+msgstr "💾 Enregistré : "
+
+#: ../includes/admin-views.php:51
+msgid "Featured image set successfully!"
+msgstr "Image mise en avant définie avec succès !"
+
+#: ../includes/admin-views.php:52
+msgid "Placeholder replaced with image!"
+msgstr "Espace réservé remplacé par l'image !"
+
+#: ../includes/admin-views.php:53
+msgid "Image inserted successfully!"
+msgstr "Image insérée avec succès !"
+
+#: ../includes/admin-views.php:54
+msgid "Failed to insert image. It has been saved to the media library."
+msgstr "Échec de l'insertion de l'image. Elle a été enregistrée dans la bibliothèque de médias."
+
+#: ../includes/admin-views.php:55
+msgid "No target images (markers) found for generation."
+msgstr "Aucune image cible (marqueur) trouvée pour la génération."
+
+#: ../includes/admin-views.php:56
+msgid "All image generation completed!"
+msgstr "Toutes les générations d'images sont terminées !"
+
+#: ../includes/admin-views.php:57
+msgid "🔄 Generating... "
+msgstr "🔄 Génération en cours... "
+
+#: ../includes/admin-views.php:58
+msgid "✅ Done!"
+msgstr "✅ Terminé !"
+
+#: ../includes/admin-views.php:60
+msgid "Copied!"
+msgstr "Copié !"
+
+#: ../includes/admin-views.php:61
+msgid "Loading history..."
+msgstr "Chargement de l'historique..."
+
+#: ../includes/admin-views.php:62 ../includes/admin-views.php:355
+msgid "Analysis History"
+msgstr "Historique d'analyse"
+
+#: ../includes/admin-views.php:63
+msgid "Show"
+msgstr "Afficher"
+
+#: ../includes/admin-views.php:64
+msgid "No history found for this post."
+msgstr "Aucun historique trouvé pour cet article."
+
+#: ../includes/admin-views.php:65
+msgid "Failed to load history."
+msgstr "Échec du chargement de l'historique."
+
+#: ../includes/admin-views.php:66
+msgid "Analysis Result"
+msgstr "Résultat d'analyse"
+
+#: ../includes/admin-views.php:67
+msgid "Copy"
+msgstr "Copier"
+
+#: ../includes/admin-views.php:68
+msgid "Clear Results"
+msgstr "Effacer les résultats"
+
+#: ../includes/admin-views.php:69
+msgid "API Error occurred."
+msgstr "Une erreur API est survenue."
+
+#: ../includes/admin-views.php:70
+msgid "Permission denied. Please refresh the page and try again."
+msgstr "Permission refusée. Veuillez rafraîchir la page et réessayer."
+
+#: ../includes/admin-views.php:71
+msgid "Server error. Please check the error log."
+msgstr "Erreur serveur. Veuillez vérifier le journal des erreurs."
+
+#: ../includes/admin-views.php:72
+msgid "Network error. Please check your connection."
+msgstr "Erreur réseau. Veuillez vérifier votre connexion."
+
+#: ../includes/admin-views.php:73
+msgid "AI response format was unexpected. Displaying as text."
+msgstr "Le format de réponse de l'IA était inattendu. Affichage en tant que texte."
+
+#: ../includes/admin-views.php:83
+msgid "None (Prompt Only)"
+msgstr "Aucun (Invite uniquement)"
+
+#: ../includes/admin-views.php:84
+msgid "Professional (Photo)"
+msgstr "Professionnel (Photo)"
+
+#: ../includes/admin-views.php:85
+msgid "Photo Realistic"
+msgstr "Photo réaliste"
+
+#: ../includes/admin-views.php:88
+msgid "Flat Illustration"
+msgstr "Illustration à plat"
+
+#: ../includes/admin-views.php:89
+msgid "Isometric"
+msgstr "Isométrique"
+
+#: ../includes/admin-views.php:90
+msgid "Vector Art"
+msgstr "Art vectoriel"
+
+#: ../includes/admin-views.php:91
+msgid "Infographic"
+msgstr "Infographie"
+
+#: ../includes/admin-views.php:92
+msgid "Icon Style"
+msgstr "Style d'icône"
+
+#: ../includes/admin-views.php:95
+msgid "Watercolor"
+msgstr "Aquarelle"
+
+#: ../includes/admin-views.php:96
+msgid "Oil Painting"
+msgstr "Peinture à l'huile"
+
+#: ../includes/admin-views.php:97
+msgid "Digital Art"
+msgstr "Art numérique"
+
+#: ../includes/admin-views.php:98
+msgid "Concept Art"
+msgstr "Art conceptuel"
+
+#: ../includes/admin-views.php:99
+msgid "Sketch"
+msgstr "Esquisse"
+
+#: ../includes/admin-views.php:102
+msgid "3D Render"
+msgstr "Rendu 3D"
+
+#: ../includes/admin-views.php:103
+msgid "Low Poly"
+msgstr "Bas polygone"
+
+#: ../includes/admin-views.php:104
+msgid "Clay Render"
+msgstr "Rendu argile"
+
+#: ../includes/admin-views.php:105
+msgid "Neon 3D"
+msgstr "Néon 3D"
+
+#: ../includes/admin-views.php:108
+msgid "Glassmorphism"
+msgstr "Glassmorphisme"
+
+#: ../includes/admin-views.php:109
+msgid "Gradient Mesh"
+msgstr "Maillage dégradé"
+
+#: ../includes/admin-views.php:110
+msgid "Geometric"
+msgstr "Géométrique"
+
+#: ../includes/admin-views.php:111
+msgid "Minimalist"
+msgstr "Minimaliste"
+
+#: ../includes/admin-views.php:112
+msgid "Brutalist"
+msgstr "Brutaliste"
+
+#: ../includes/admin-views.php:115
+msgid "Vintage"
+msgstr "Vintage"
+
+#: ../includes/admin-views.php:116
+msgid "Cyberpunk"
+msgstr "Cyberpunk"
+
+#: ../includes/admin-views.php:117
+msgid "Anime"
+msgstr "Anime"
+
+#: ../includes/admin-views.php:118
+msgid "Pixel Art"
+msgstr "Pixel Art"
+
+#: ../includes/admin-views.php:119
+msgid "Paper Cut"
+msgstr "Découpage papier"
+
+#: ../includes/admin-views.php:120
+msgid "Collage"
+msgstr "Collage"
+
+#: ../includes/admin-views.php:143
+msgid "Analyze with Gemini"
+msgstr "Analyser avec Gemini"
+
+#: ../includes/admin-views.php:146
+msgid "Discover Images"
+msgstr "Découvrir des images"
+
+#: ../includes/admin-views.php:151
+msgid "Analysis results will appear here."
+msgstr "Les résultats d'analyse apparaîtront ici."
+
+#: ../includes/admin-views.php:171
+msgid "AIO Gemini Settings"
+msgstr "Réglages AIO Gemini"
+
+#: ../includes/admin-views.php:174
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: ../includes/admin-views.php:182
+msgid "Google Gemini API Key"
+msgstr "Clé API Google Gemini"
+
+#: ../includes/admin-views.php:186
+msgid "Analysis Model"
+msgstr "Modèle d'analyse"
+
+#: ../includes/admin-views.php:207
+msgid "Fetch Latest Model List"
+msgstr "Récupérer la liste des modèles"
+
+#: ../includes/admin-views.php:211
+msgid ""
+"After saving the API key, you can add the latest available models to the "
+"dropdown using the button above."
+msgstr "Après avoir enregistré la clé API, vous pouvez ajouter les derniers modèles disponibles au menu déroulant en utilisant le bouton ci-dessus."
+
+#: ../includes/admin-views.php:216
+msgid "Image Generation Function"
+msgstr "Fonction de génération d'images"
+
+#: ../includes/admin-views.php:220
+msgid "Enable"
+msgstr "Activer"
+
+#: ../includes/admin-views.php:223
+msgid "Generate high-quality images using the selected image model."
+msgstr "Générer des images de haute qualité en utilisant le modèle d'image sélectionné."
+
+#: ../includes/admin-views.php:226
+msgid ""
+"* Image generation (Imagen) may not be available with free tier API keys. "
+"Check <a href=\"https://aistudio.google.com/api-keys\" "
+"target=\"_blank\">Google AI Studio</a> for details."
+msgstr "* La génération d'images (Imagen) peut ne pas être disponible avec les clés API gratuites. Consultez <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a> pour plus de détails."
+
+#: ../includes/admin-views.php:231
+msgid "Image Prompt Model"
+msgstr "Modèle d'invite d'image"
+
+#: ../includes/admin-views.php:252
+msgid "Image Style"
+msgstr "Style d'image"
+
+#: ../includes/admin-views.php:265
+msgid ""
+"Select the style for generated images. This will be automatically added to "
+"prompts."
+msgstr "Sélectionnez le style pour les images générées. Ceci sera automatiquement ajouté aux invites."
+
+#: ../includes/admin-views.php:281
+msgid "Fetching..."
+msgstr "Récupération..."
+
+#: ../includes/admin-views.php:328
+msgid "✅ Done"
+msgstr "✅ Terminé"
+
+#: ../includes/admin-views.php:330 ../includes/admin-views.php:334
+msgid "❌ Error"
+msgstr "❌ Erreur"
+
+#: ../includes/admin-views.php:357
+msgid "Showing the last 20 analysis records. Click a row to view details."
+msgstr "Affichage des 20 derniers enregistrements d'analyse. Cliquez sur une ligne pour voir les détails."
+
+#: ../includes/admin-views.php:361
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/admin-views.php:362
+msgid "Post ID"
+msgstr "ID de l'article"
+
+#: ../includes/admin-views.php:364
+msgid "Action"
+msgstr "Action"
+
+#: ../includes/admin-views.php:369
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../includes/admin-views.php:380
+msgid "Analysis Details"
+msgstr "Détails de l'analyse"
+
+#: ../includes/admin-views.php:403
+msgid "(No data)"
+msgstr "(Pas de données)"
+
+#: ../includes/admin-views.php:416
+msgid "View"
+msgstr "Voir"
+
+#: ../includes/admin-views.php:532
+msgid "Could not parse as JSON. Showing as text."
+msgstr "Impossible d'analyser en tant que JSON. Affichage en tant que texte."
