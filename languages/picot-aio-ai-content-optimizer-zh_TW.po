@@ -158,7 +158,7 @@ msgid "Image inserted successfully!"
 msgstr "圖片插入成功！"
 
 #: ../includes/admin-views.php:54
-msgid "Failed to insert image. It has been saved to the media library."
+msgid "Failed to insert image. 它已儲存到媒體庫。"
 msgstr "圖片插入失敗。它已儲存到媒體庫。"
 
 #: ../includes/admin-views.php:55
@@ -218,19 +218,19 @@ msgid "API Error occurred."
 msgstr "發生 API 錯誤。"
 
 #: ../includes/admin-views.php:70
-msgid "Permission denied. Please refresh the page and try again."
+msgid "Permission denied. 請重新整理頁面並再試一次。"
 msgstr "權限被拒絕。請重新整理頁面並再試一次。"
 
 #: ../includes/admin-views.php:71
-msgid "Server error. Please check the error log."
+msgid "Server error. 請檢查錯誤日誌。"
 msgstr "伺服器錯誤。請檢查錯誤日誌。"
 
 #: ../includes/admin-views.php:72
-msgid "Network error. Please check your connection."
+msgid "Network error. 請檢查您的連線。"
 msgstr "網絡錯誤。請檢查您的連線。"
 
 #: ../includes/admin-views.php:73
-msgid "AI response format was unexpected. Displaying as text."
+msgid "AI response format was unexpected. 將以文字顯示。"
 msgstr "AI 回應格式非預期。將以文字顯示。"
 
 #: ../includes/admin-views.php:83
@@ -379,8 +379,7 @@ msgstr "獲取最新模型列表"
 
 #: ../includes/admin-views.php:211
 msgid ""
-"After saving the API key, you can add the latest available models to the "
-"dropdown using the button above."
+"儲存 API 金鑰後，您可以使用上方的按鈕將最新可用的模型添加到下拉選單中。"
 msgstr "儲存 API 金鑰後，您可以使用上方的按鈕將最新可用的模型添加到下拉選單中。"
 
 #: ../includes/admin-views.php:216
@@ -397,9 +396,7 @@ msgstr "使用選定的圖片模型生成高品質圖片。"
 
 #: ../includes/admin-views.php:226
 msgid ""
-"* Image generation (Imagen) may not be available with free tier API keys. "
-"Check <a href=\"https://aistudio.google.com/api-keys\" "
-"target=\"_blank\">Google AI Studio</a> for details."
+"※ 圖片生成功能 (Imagen) 可能無法用於免費層級的 API 金鑰。詳情請查看 <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a>。"
 msgstr "※ 圖片生成功能 (Imagen) 可能無法用於免費層級的 API 金鑰。詳情請查看 <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a>。"
 
 #: ../includes/admin-views.php:231
@@ -412,8 +409,7 @@ msgstr "圖片風格"
 
 #: ../includes/admin-views.php:265
 msgid ""
-"Select the style for generated images. This will be automatically added to "
-"prompts."
+"選擇生成的圖片風格。這將自動添加到提示詞中。"
 msgstr "選擇生成的圖片風格。這將自動添加到提示詞中。"
 
 #: ../includes/admin-views.php:281
@@ -429,7 +425,7 @@ msgid "❌ Error"
 msgstr "❌ 錯誤"
 
 #: ../includes/admin-views.php:357
-msgid "Showing the last 20 analysis records. Click a row to view details."
+msgid "顯示最近 20 筆分析記錄。點擊行以查看詳情。"
 msgstr "顯示最近 20 筆分析記錄。點擊行以查看詳情。"
 
 #: ../includes/admin-views.php:361
@@ -461,5 +457,5 @@ msgid "View"
 msgstr "查看"
 
 #: ../includes/admin-views.php:532
-msgid "Could not parse as JSON. Showing as text."
+msgid "無法解析為 JSON。將以文字顯示。"
 msgstr "無法解析為 JSON。將以文字顯示。"

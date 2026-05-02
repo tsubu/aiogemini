@@ -158,7 +158,7 @@ msgid "Image inserted successfully!"
 msgstr "Bild erfolgreich eingefügt!"
 
 #: ../includes/admin-views.php:54
-msgid "Failed to insert image. It has been saved to the media library."
+msgid "Failed to insert image. Es wurde in die Mediathek gespeichert."
 msgstr "Bild konnte nicht eingefügt werden. Es wurde in die Mediathek gespeichert."
 
 #: ../includes/admin-views.php:55
@@ -218,19 +218,19 @@ msgid "API Error occurred."
 msgstr "API-Fehler aufgetreten."
 
 #: ../includes/admin-views.php:70
-msgid "Permission denied. Please refresh the page and try again."
+msgid "Permission denied. Bitte laden Sie die Seite neu und versuchen Sie es erneut."
 msgstr "Zugriff verweigert. Bitte laden Sie die Seite neu und versuchen Sie es erneut."
 
 #: ../includes/admin-views.php:71
-msgid "Server error. Please check the error log."
+msgid "Server error. Bitte überprüfen Sie das Fehlerprotokoll."
 msgstr "Serverfehler. Bitte überprüfen Sie das Fehlerprotokoll."
 
 #: ../includes/admin-views.php:72
-msgid "Network error. Please check your connection."
+msgid "Network error. Bitte überprüfen Sie Ihre Verbindung."
 msgstr "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung."
 
 #: ../includes/admin-views.php:73
-msgid "AI response format was unexpected. Displaying as text."
+msgid "AI response format was unexpected. Anzeige als Text."
 msgstr "AI-Antwortformat war unerwartet. Anzeige als Text."
 
 #: ../includes/admin-views.php:83
@@ -397,9 +397,7 @@ msgstr "Generieren Sie hochwertige Bilder mit dem ausgewählten Bildmodell."
 
 #: ../includes/admin-views.php:226
 msgid ""
-"* Image generation (Imagen) may not be available with free tier API keys. "
-"Check <a href=\"https://aistudio.google.com/api-keys\" "
-"target=\"_blank\">Google AI Studio</a> for details."
+"* Image generation (Imagen) steht bei API-Schlüsseln der kostenlosen Stufe möglicherweise nicht zur Verfügung. Details finden Sie unter <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a>."
 msgstr "* Bildgenerierung (Imagen) steht bei API-Schlüsseln der kostenlosen Stufe möglicherweise nicht zur Verfügung. Details finden Sie unter <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a>."
 
 #: ../includes/admin-views.php:231
@@ -412,8 +410,7 @@ msgstr "Bildstil"
 
 #: ../includes/admin-views.php:265
 msgid ""
-"Select the style for generated images. This will be automatically added to "
-"prompts."
+"Wählen Sie den Stil für generierte Bilder aus. Dieser wird automatisch zu den Prompts hinzugefügt."
 msgstr "Wählen Sie den Stil für generierte Bilder aus. Dieser wird automatisch zu den Prompts hinzugefügt."
 
 #: ../includes/admin-views.php:281
@@ -429,7 +426,7 @@ msgid "❌ Error"
 msgstr "❌ Fehler"
 
 #: ../includes/admin-views.php:357
-msgid "Showing the last 20 analysis records. Click a row to view details."
+msgid "Zeige die letzten 20 Analyse-Einträge an. Klicken Sie auf eine Zeile, um Details anzuzeigen."
 msgstr "Zeige die letzten 20 Analyse-Einträge an. Klicken Sie auf eine Zeile, um Details anzuzeigen."
 
 #: ../includes/admin-views.php:361
@@ -461,5 +458,5 @@ msgid "View"
 msgstr "Ansehen"
 
 #: ../includes/admin-views.php:532
-msgid "Could not parse as JSON. Showing as text."
+msgid "Konnte nicht als JSON parsen. Anzeige als Text."
 msgstr "Konnte nicht als JSON parsen. Anzeige als Text."

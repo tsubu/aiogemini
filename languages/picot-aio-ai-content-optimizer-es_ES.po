@@ -158,7 +158,7 @@ msgid "Image inserted successfully!"
 msgstr "¡Imagen insertada con éxito!"
 
 #: ../includes/admin-views.php:54
-msgid "Failed to insert image. It has been saved to the media library."
+msgid "Failed to insert image. Se ha guardado en la biblioteca de medios."
 msgstr "Fallo al insertar imagen. Se ha guardado en la biblioteca de medios."
 
 #: ../includes/admin-views.php:55
@@ -218,19 +218,19 @@ msgid "API Error occurred."
 msgstr "Ocurrió un error de API."
 
 #: ../includes/admin-views.php:70
-msgid "Permission denied. Please refresh the page and try again."
+msgid "Permission denied. Por favor, refresca la página e inténtalo de nuevo."
 msgstr "Permiso denegado. Por favor, refresca la página e inténtalo de nuevo."
 
 #: ../includes/admin-views.php:71
-msgid "Server error. Please check the error log."
+msgid "Server error. Por favor, comprueba el registro de errores."
 msgstr "Error de servidor. Por favor, comprueba el registro de errores."
 
 #: ../includes/admin-views.php:72
-msgid "Network error. Please check your connection."
+msgid "Network error. Por favor, comprueba tu conexión."
 msgstr "Error de red. Por favor, comprueba tu conexión."
 
 #: ../includes/admin-views.php:73
-msgid "AI response format was unexpected. Displaying as text."
+msgid "AI response format was unexpected. Mostrando como texto."
 msgstr "El formato de respuesta de la IA fue inesperado. Mostrando como texto."
 
 #: ../includes/admin-views.php:83
@@ -379,8 +379,7 @@ msgstr "Obtener lista de modelos"
 
 #: ../includes/admin-views.php:211
 msgid ""
-"After saving the API key, you can add the latest available models to the "
-"dropdown using the button above."
+"Después de guardar la clave API, puedes añadir los últimos modelos disponibles al menú desplegable usando el botón de arriba."
 msgstr "Después de guardar la clave API, puedes añadir los últimos modelos disponibles al menú desplegable usando el botón de arriba."
 
 #: ../includes/admin-views.php:216
@@ -397,9 +396,7 @@ msgstr "Generar imágenes de alta calidad usando el modelo de imagen seleccionad
 
 #: ../includes/admin-views.php:226
 msgid ""
-"* Image generation (Imagen) may not be available with free tier API keys. "
-"Check <a href=\"https://aistudio.google.com/api-keys\" "
-"target=\"_blank\">Google AI Studio</a> for details."
+"* La generación de imágenes (Imagen) puede no estar disponible con claves API de nivel gratuito. Consulta <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a> para más detalles."
 msgstr "* La generación de imágenes (Imagen) puede no estar disponible con claves API de nivel gratuito. Consulta <a href=\"https://aistudio.google.com/api-keys\" target=\"_blank\">Google AI Studio</a> para más detalles."
 
 #: ../includes/admin-views.php:231
@@ -412,8 +409,7 @@ msgstr "Estilo de imagen"
 
 #: ../includes/admin-views.php:265
 msgid ""
-"Select the style for generated images. This will be automatically added to "
-"prompts."
+"Selecciona el estilo para las imágenes generadas. Esto se añadirá automáticamente a los prompts."
 msgstr "Selecciona el estilo para las imágenes generadas. Esto se añadirá automáticamente a los prompts."
 
 #: ../includes/admin-views.php:281
@@ -429,7 +425,7 @@ msgid "❌ Error"
 msgstr "❌ Error"
 
 #: ../includes/admin-views.php:357
-msgid "Showing the last 20 analysis records. Click a row to view details."
+msgid "Mostrando los últimos 20 registros de análisis. Pulsa en una fila para ver detalles."
 msgstr "Mostrando los últimos 20 registros de análisis. Pulsa en una fila para ver detalles."
 
 #: ../includes/admin-views.php:361
@@ -461,5 +457,5 @@ msgid "View"
 msgstr "Ver"
 
 #: ../includes/admin-views.php:532
-msgid "Could not parse as JSON. Showing as text."
+msgid "No se pudo procesar como JSON. Mostrando como texto."
 msgstr "No se pudo procesar como JSON. Mostrando como texto."
