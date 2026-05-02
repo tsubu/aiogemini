@@ -210,6 +210,10 @@ class PicotAioOptimizer_Admin_Views
                             <?php if (empty($available_models)) : ?>
                                 <option value="gemini-1.5-flash" <?php selected($model, 'gemini-1.5-flash'); ?>>Gemini 1.5 Flash (推奨)</option>
                                 <option value="gemini-1.5-pro" <?php selected($model, 'gemini-1.5-pro'); ?>>Gemini 1.5 Pro</option>
+                                <option value="gemini-1.5-flash-8b" <?php selected($model, 'gemini-1.5-flash-8b'); ?>>Gemini 1.5 Flash-8B</option>
+                                <option value="gemini-2.0-flash-exp" <?php selected($model, 'gemini-2.0-flash-exp'); ?>>Gemini 2.0 Flash Exp</option>
+                                <option value="gemini-exp-1206" <?php selected($model, 'gemini-exp-1206'); ?>>Gemini Exp 1206</option>
+                                <option value="gemini-2.0-flash-thinking-exp-1219" <?php selected($model, 'gemini-2.0-flash-thinking-exp-1219'); ?>>Gemini 2.0 Flash Thinking Exp</option>
                             <?php else : ?>
                                 <?php foreach ($available_models as $m) :
                                     $m_id = str_replace('models/', '', $m['name']);
@@ -248,6 +252,8 @@ class PicotAioOptimizer_Admin_Views
                     <div class="picot-settings-field">
                         <select name="picot_aio_optimizer_image_model" id="picot_aio_optimizer_image_model">
                             <?php if (empty($available_models)) : ?>
+                                <option value="imagen-3.0-generate-001" <?php selected($image_model, 'imagen-3.0-generate-001'); ?>>Imagen 3.0 Generate (最新)</option>
+                                <option value="imagen-3.0-fast-generate-001" <?php selected($image_model, 'imagen-3.0-fast-generate-001'); ?>>Imagen 3.0 Fast Generate</option>
                                 <option value="gemini-2.0-flash-preview-image-generation" <?php selected($image_model, 'gemini-2.0-flash-preview-image-generation'); ?>>Gemini 2.0 Flash (画像生成内蔵)</option>
                             <?php else : ?>
                                 <?php foreach ($available_models as $m) :

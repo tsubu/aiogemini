@@ -1,0 +1,17 @@
+.DS_Store
+.git/
+.gitignore
+.distignore
+README.md
+logs/
+phpcs.xml
+phpunit.xml
+tests/
+bin/
+node_modules/
+package.json
+package-lock.json
+webpack.config.js
+composer.json
+composer.lock
+vendor/

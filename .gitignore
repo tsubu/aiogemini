@@ -1,1 +1,4 @@
-.DS_Store\nlogs/*.log\n*.zip
+.DS_Store
+logs/*.log
+*.zip
+.gitignore

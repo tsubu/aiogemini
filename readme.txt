@@ -1,5 +1,5 @@
 === Picot AIO AI Content Optimizer ===
-Contributors: picot
+Contributors: tsubu
 Donate link: https://github.com/tsubu/aiogemini
 Tags: ai, gemini, seo, content-quality, rewrite
 Requires at least: 6.0
@@ -26,28 +26,15 @@ Picot AIO AI Content Optimizer is a powerful WordPress plugin designed to elevat
 
 == External services ==
 
-This plugin uses Google Generative Language API (Gemini) to generate content, SEO suggestions, and images.
+This plugin relies on the **Google Generative Language API (Gemini)** provided by Google LLC to provide AI-powered content analysis, text generation, and image generation features.
 
-What the service does:
-- Content generation
-- SEO analysis
-- Image generation
-
-What data is sent:
-- User input text (content, prompts)
-- API key (stored locally)
-
-When data is sent:
-- When the user clicks generate/analyze buttons
-
-Service provider:
-Google LLC
-
-Terms of Service:
-https://ai.google.dev/terms
-
-Privacy Policy:
-https://policies.google.com/privacy
+- **Service Domain**: `https://generativelanguage.googleapis.com`
+- **What the service is used for**: Analyzing post content for SEO/AIO advice, rewriting text based on user instructions, and generating relevant images based on article context.
+- **What data is sent**: The content of your post (title and body) and your custom AI prompts are sent to Google's API when you manually trigger an analysis, rewrite, or image generation request.
+- **When data is sent**: Data is only sent when the user explicitly clicks the "Analyze", "AI Rewrite", or "Generate Image" buttons.
+- **Legal Links**:
+    - [Google AI Studio Terms of Service](https://ai.google.dev/terms)
+    - [Google Privacy Policy](https://policies.google.com/privacy)
 
 == Installation ==
 

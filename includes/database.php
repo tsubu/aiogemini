@@ -107,7 +107,7 @@ class PicotAioOptimizer_Database
 
         // Copy data (table names cannot be parameterized; esc_sql() applied)
         $wpdb->query("INSERT INTO `{$safe_new_table}` (post_id, advice_result, created_at) SELECT post_id, advice_result, created_at FROM `{$safe_old_table}`"); // phpcs:ignore WordPress.DB.DirectDatabaseQuery.DirectQuery, WordPress.DB.DirectDatabaseQuery.NoCaching, WordPress.DB.PreparedSQL.NotPrepared, WordPress.DB.PreparedSQL.InterpolatedNotPrepared -- esc_sql() applied to all table names
-        
+
         update_option('picot_aio_optimizer_migrated_from_aiogemini', '1');
         self::log_error('Data migrated from AIOGemini successfully', false);
     }
@@ -169,7 +169,7 @@ class PicotAioOptimizer_Database
 
         $deleted = $wpdb->query( // phpcs:ignore WordPress.DB.DirectDatabaseQuery.DirectQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
             $wpdb->prepare(
-                "DELETE FROM {$wpdb->prefix}picot_aio_optimizer_logs WHERE created_at < DATE_SUB(NOW(), INTERVAL %d DAY)",
+                \"DELETE FROM {$wpdb->prefix}picot_aio_optimizer_logs WHERE created_at < DATE_SUB(NOW(), INTERVAL %d DAY)\",
                 absint($retention_days)
             )
         );
